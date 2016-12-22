@@ -1,0 +1,19 @@
+{
+  "name": "nodetoiotprotocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple_sample_device_x509.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "azure-iot-device": "1.1.2",
+    "azure-iot-device-amqp": "1.1.2",
+    "azure-iot-device-http": "1.1.2",
+    "azure-iot-device-mqtt": "1.1.2",
+    "es5-shim": "^4.5.9",
+    "lodash": "^4.15.0"
+  }
+}
